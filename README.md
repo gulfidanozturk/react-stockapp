@@ -37,6 +37,9 @@ Material-UI
 
 ![login_page](https://github.com/gulfidanozturk/react-stockapp/blob/main/preview/loginpage.jpg?raw=true)
 
+[Watch the video](https://www.youtube.com/watch?v=jNKNroCbOYs)
+
+Click the image above to watch a video demonstration of the app in action.
 
 
 
