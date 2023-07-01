@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gulfidanozturk.github.io/react-stockapp/static/css/main.6e254944.css",
-    "main.js": "/gulfidanozturk.github.io/react-stockapp/static/js/main.d77f7fa9.js",
+    "main.js": "/gulfidanozturk.github.io/react-stockapp/static/js/main.d99f73fb.js",
     "static/media/result.svg": "/gulfidanozturk.github.io/react-stockapp/static/media/result.eebf37999ce8a048847f3182de8d255a.svg",
     "static/media/cw.jpeg": "/gulfidanozturk.github.io/react-stockapp/static/media/cw.041cf5e8b9f405eff614.jpeg",
     "index.html": "/gulfidanozturk.github.io/react-stockapp/index.html",
     "main.6e254944.css.map": "/gulfidanozturk.github.io/react-stockapp/static/css/main.6e254944.css.map",
-    "main.d77f7fa9.js.map": "/gulfidanozturk.github.io/react-stockapp/static/js/main.d77f7fa9.js.map"
+    "main.d99f73fb.js.map": "/gulfidanozturk.github.io/react-stockapp/static/js/main.d99f73fb.js.map"
   },
   "entrypoints": [
     "static/css/main.6e254944.css",
-    "static/js/main.d77f7fa9.js"
+    "static/js/main.d99f73fb.js"
   ]
 }
