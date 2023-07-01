@@ -1,4 +1,7 @@
+
+
 {
+  "homepage": "https://github.com/gulfidanozturk/react-stockapp.git",
   "name": "react-stock-app-1",
   "version": "0.1.0",
   "private": true,
@@ -26,13 +29,13 @@
     "yup": "^1.0.2"
   },
   "scripts": {
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "homepage": "https://github.com/gulfidanozturk/react-stockapp.git"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
