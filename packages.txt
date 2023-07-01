@@ -1,0 +1,8 @@
+Redux toolkit    - App state management 
+MUI              - UI components 
+axios            - server requests
+formik           - handle forms 
+Yup              - form validation
+react-router-dom - client side routes 
+react-toastify   - Notifications
+recharts         - render charts 
