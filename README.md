@@ -35,4 +35,8 @@ Redux
 Axios
 Material-UI
 
+![login_page](https://github.com/gulfidanozturk/react-stockapp/blob/main/preview/loginpage.jpg?raw=true)
+
+
+
 
