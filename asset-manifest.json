@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e254944.css",
-    "main.js": "/static/js/main.0a3392f6.js",
-    "static/media/result.svg": "/static/media/result.eebf37999ce8a048847f3182de8d255a.svg",
-    "static/media/cw.jpeg": "/static/media/cw.041cf5e8b9f405eff614.jpeg",
-    "index.html": "/index.html",
-    "main.6e254944.css.map": "/static/css/main.6e254944.css.map",
-    "main.0a3392f6.js.map": "/static/js/main.0a3392f6.js.map"
+    "main.css": "/gulfidanozturk/react-stockapp/static/css/main.6e254944.css",
+    "main.js": "/gulfidanozturk/react-stockapp/static/js/main.efceff65.js",
+    "static/media/result.svg": "/gulfidanozturk/react-stockapp/static/media/result.eebf37999ce8a048847f3182de8d255a.svg",
+    "static/media/cw.jpeg": "/gulfidanozturk/react-stockapp/static/media/cw.041cf5e8b9f405eff614.jpeg",
+    "index.html": "/gulfidanozturk/react-stockapp/index.html",
+    "main.6e254944.css.map": "/gulfidanozturk/react-stockapp/static/css/main.6e254944.css.map",
+    "main.efceff65.js.map": "/gulfidanozturk/react-stockapp/static/js/main.efceff65.js.map"
   },
   "entrypoints": [
     "static/css/main.6e254944.css",
-    "static/js/main.0a3392f6.js"
+    "static/js/main.efceff65.js"
   ]
 }
