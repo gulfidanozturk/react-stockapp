@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gulfidanozturk/react-stockapp/static/css/main.6e254944.css",
-    "main.js": "/gulfidanozturk/react-stockapp/static/js/main.efceff65.js",
-    "static/media/result.svg": "/gulfidanozturk/react-stockapp/static/media/result.eebf37999ce8a048847f3182de8d255a.svg",
-    "static/media/cw.jpeg": "/gulfidanozturk/react-stockapp/static/media/cw.041cf5e8b9f405eff614.jpeg",
-    "index.html": "/gulfidanozturk/react-stockapp/index.html",
-    "main.6e254944.css.map": "/gulfidanozturk/react-stockapp/static/css/main.6e254944.css.map",
-    "main.efceff65.js.map": "/gulfidanozturk/react-stockapp/static/js/main.efceff65.js.map"
+    "main.css": "/gulfidanozturk/react-stockapp/build/static/css/main.6e254944.css",
+    "main.js": "/gulfidanozturk/react-stockapp/build/static/js/main.0f8a7fe4.js",
+    "static/media/result.svg": "/gulfidanozturk/react-stockapp/build/static/media/result.eebf37999ce8a048847f3182de8d255a.svg",
+    "static/media/cw.jpeg": "/gulfidanozturk/react-stockapp/build/static/media/cw.041cf5e8b9f405eff614.jpeg",
+    "index.html": "/gulfidanozturk/react-stockapp/build/index.html",
+    "main.6e254944.css.map": "/gulfidanozturk/react-stockapp/build/static/css/main.6e254944.css.map",
+    "main.0f8a7fe4.js.map": "/gulfidanozturk/react-stockapp/build/static/js/main.0f8a7fe4.js.map"
   },
   "entrypoints": [
     "static/css/main.6e254944.css",
-    "static/js/main.efceff65.js"
+    "static/js/main.0f8a7fe4.js"
   ]
 }
