@@ -1,6 +1,6 @@
 # React Stock App
-This project is a web application built using React and Redux for managing stock and categories. 
-It includes features such as user authentication, product management, and category management.
+This project is a web application built using React and Redux for managing company inventory. 
+It includes features such as user authentication, product, category, firm, sales, brand management and profit tracking.
 
 ## Prerequisites
 Make sure you have the following software installed on your system:
@@ -25,8 +25,8 @@ Replace <api-url> with the URL of the API server.
 The application allows users to manage products and categories in the stock. Users can perform the following actions:
 
 Login and register as a new user.
-View a list of products and categories.
-Add, edit, and delete products and categories.
+View a list of products, categories, firms, sales, brands.
+Add, edit, and delete products, categories, firms, sales, brands.
 Logout from the application.
 
 ## Technologies Used
