@@ -1,4 +1,8 @@
-# React Stock App
+# Live Link 
+https://gulfidanozturk.com/react-stockapp/
+
+
+## React Stock App
 This project is a web application built using React and Redux for managing company inventory. 
 It includes features such as user authentication, product, category, firm, sales, brand management and profit tracking.
 
@@ -40,6 +44,8 @@ Material-UI
 [Watch the video](https://www.youtube.com/watch?v=jNKNroCbOYs)
 
 Click the image above to watch a video demonstration of the app in action.
+
+
 
 
 
